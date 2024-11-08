@@ -12,9 +12,9 @@ title                    : "Ilana Shapiro"
 title_separator          : "-"
 name                     : &name "Ilana Shapiro"
 description              : &description "Computer Science PhD Student at UC San Diego"
-url                      : https://ilanashapiro.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ilanashapiro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ilanashapiro.com"
+repository               : "ilanashapiro.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Ilana Shapiro"
   pronouns         : # example: "she/her"  
-  bio              : #"CS PhD at UC San Diego. PL+AI+HCI for structured human-machine co-creativity."
+  bio              : "CS PhD Student @ UC San Diego"
   location         : "La Jolla, California"
   employer         : "UC San Diego"
   uri              : # URL
