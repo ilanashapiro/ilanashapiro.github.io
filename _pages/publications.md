@@ -24,7 +24,7 @@ My publications can also be found on [Google Scholar](https://scholar.google.com
 
 <h3><a href="https://doi.org/10.5281/zenodo.6860879" target="_blank">Virtual Ensemble Assembly: Musicality in Separation</a></h3>
 
-Kaitlin Pet, **Ilana Shapiro**, and Christopher Raphael. In _Proceedings of the 2023 Web Audio Conference (WAC'23)_, Cannes, France, 2023.
+Kaitlin Pet, **Ilana Shapiro**, and Christopher Raphael. In _Proceedings of the 2022 Web Audio Conference (WAC'22)_, Cannes, France, 2022.
 
 
 <h3><a href="https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1848&context=jhm" target="_blank">Markov Chains for Computer Music Generation</a></h3>

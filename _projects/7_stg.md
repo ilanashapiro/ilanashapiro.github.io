@@ -1,7 +1,9 @@
 ---
-title: "Deriving Representative Structure From Music Corpora"
-excerpt: "Short description of projects item number 1<br/><img src='/images/500x300.png'>"
+title: "DNA to Music (MIDI) Translation"
+duration: "2019.1 - 2019.5"
+excerpt: "Short description of projects item number 1"
 collection: projects
+paper: https://github.com/ilanashapiro/DNA-Music/blob/master/ICCC-author-kit/iccc.pdf
+code: https://github.com/ilanashapiro/DNA-Music
+image: 500x300.png
 ---
-
-This is an item in your projects. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

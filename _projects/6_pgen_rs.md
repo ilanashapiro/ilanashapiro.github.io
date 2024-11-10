@@ -1,7 +1,9 @@
 ---
 title: "pgen-rs: LLM-Aided Efficient and User-Friendly Genomic Data Wrangling"
-excerpt: "Short description of projects item number 1<br/><img src='/images/500x300.png'>"
+duration: "2019.1 - 2019.5"
+excerpt: "Short description of projects item number 1"
 collection: projects
+paper: /files/pgen-rs.pdf
+code: https://github.com/ilanashapiro/DNA-Music
+image: 500x300.png
 ---
-
-This is an item in your projects. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
