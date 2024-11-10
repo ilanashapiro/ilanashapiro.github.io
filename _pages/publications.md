@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+My publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=ZGCGKNsAAAAJ).
+
 <span style="color:grey">_\* equal contribution_</span>
 
 # Preprints
@@ -55,14 +57,3 @@ Ani Canumalla,* **Ilana Shapiro**,**\*** and Kyle Thompson.* Unpublished manuscr
 <h3><a href="/files/dna_music.pdf" target="_blank">Converting DNA to Music: Sonifying Structure, Splicing, and Translation</a></h3>
 
 **Ilana Shapiro**. Unpublished manuscript, 2019.
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-  {% include base_path %}
-
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
- -->
