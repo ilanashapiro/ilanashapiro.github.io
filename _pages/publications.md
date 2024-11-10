@@ -13,7 +13,7 @@ author_profile: true
 
 **Ilana Shapiro**, Ruanqianqian (Lisa) Huang, Zachary Novack, Cheng-i Wang, Hao-Wen Dong, Taylor Berg-Kirkpatrick, Shlomo Dubnov, and Sorin Lerner. Under review (title modified for anonymous review). 2024.
 
-# Conference Papers
+# Conference and Journal Papers
 
 <h3><a href="https://www.tenor-conference.org/proceedings/2023/11-TENOR_BOSTON_2023_paper_9804Shapiro.pdf" target="_blank">MusAssist: A Domain Specific Language for Music Notation</a></h3>
 
@@ -42,7 +42,7 @@ Cole Kurashige,* Savitha Ravi,* and **Ilana Shapiro**.**\*** Unpublished manuscr
 Ani Canumalla,* **Ilana Shapiro**,**\*** and Kyle Thompson.* Unpublished manuscript, 2024.
 
 
-<h3><a href="https://cs.pomona.edu/classes/cs190/thesis_examples/Shapiro.22.pdf" target="_blank">MusAssist: A Domain Specific Language for Music Notation. Bachelor’s thesis</a></h3>
+<h3><a href="https://cs.pomona.edu/classes/cs190/thesis_examples/Shapiro.22.pdf" target="_blank">MusAssist: A Domain Specific Language for Music Notation</a></h3>
 
 **Ilana Shapiro**. 2022. Bachelor's Thesis (Computer Science). Pomona College.
 
