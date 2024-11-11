@@ -21,7 +21,7 @@ repository               : "ilanashapiro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile1.png"
   name             : "Ilana Shapiro"
   pronouns         : # example: "she/her"  
   bio              : "CS PhD Student @ UC San Diego"
