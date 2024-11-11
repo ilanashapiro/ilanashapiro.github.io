@@ -1,12 +1,12 @@
 ---
-permalink: /
+permalink: /music/
 title: "Music"
 author_profile: true
 ---
 
 ## Flute
 
-In my free time, I am an amateur flutist. I have studied flute for 14 years and was a music double major at Pomona College. My primary teachers have been [Catherine Ransom Karoly](https://www.laphil.com/musicdb/artists/2756/catherine-ransom-karoly) (Los Angeles Philharmonic) and [Rachel Rudich](https://rachelrudich.com/) (Pomona College). I also spent two summers in Israel studying with [Guy Eshed](https://aicf.org/artist/guy-eshed/) and [Yossi Arnheim](https://aicf.org/artist/yossi-arnheim/) of the Israel Philharmonic Orchestra, as well as four summers studying at the [Orford Music Academy](https://www.orford.mu/en/academy/) in Quebec. You can check out my playing on my [YouTube channel](https://www.youtube.com/@ilanashapiroflute)!
+In my free time, I am an amateur flutist. I have studied flute since 2011, and was a music double major at Pomona College. My primary teachers have been [Catherine Ransom Karoly](https://www.laphil.com/musicdb/artists/2756/catherine-ransom-karoly) (Los Angeles Philharmonic), [Rachel Rudich](https://rachelrudich.com/) (Pomona College), and [Linda Holland](https://sbmusicclub.org/member/linda-holland/). I also spent two summers in Israel studying with [Guy Eshed](https://aicf.org/artist/guy-eshed/) and [Yossi Arnheim](https://aicf.org/artist/yossi-arnheim/) of the Israel Philharmonic Orchestra, as well as four summers studying at the [Orford Music Academy](https://www.orford.mu/en/academy/) in Quebec. You can check out my playing on my [YouTube channel](https://www.youtube.com/@ilanashapiroflute)!
 
 ## Research on Mieczysław Weinberg
 
