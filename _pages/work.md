@@ -11,7 +11,7 @@ I am working to integrate the complementary strengths of PL, HCI, and AI to deve
 
 ## Freelance Software Engineer, Stainless (2023.02 - present)
 
-[Stainless](https://www.stainlessapi.com/) is a startup building the platform for high - quality, easy - to - use APIs. To support Stainless, I make open source contributions to codebases including Stoplight Prism, node - tree - sitter, Microsoft Pyright, NPM Trends, and json-schema-benchmark
+[Stainless](https://www.stainlessapi.com/) is a startup building the platform for high-quality, easy-to-use APIs. To support Stainless, I make open source contributions to codebases including [Stoplight Prism](https://github.com/stoplightio/prism), node-tree-sitter, Microsoft Pyright, NPM Trends, and json-schema-benchmark. My primary contributions are to Prism in mocking and validating APIs using TypeScript, with significant use of functional TypeScript via the [fp-ts library](https://github.com/gcanti/fp-ts).
 
 ## Software Engineer, Meta (2022.10 - 2022.11)
 
@@ -27,4 +27,4 @@ I was an iOS frontend intern on Facebook Events. I independently created a new e
 
 ## Facebook University Engineering Intern (2019.06 - 2019.09)
 
-As part of Facebook's University for Engineers (FBU) program (renamed to [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity)), my team created [DormShop](https://github.com/mloirraqi/Dorm - a - Shop), an iOS app that connects college students to buy and sell. I also completed 3 weeks of CodePath iOS bootcamp making mock Twitter and Instagram apps.
+As part of Facebook's University for Engineers (FBU) program (renamed to [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity)), my team created [DormShop](https://github.com/mloirraqi/Dorm-a-Shop), an iOS app that connects college students to buy and sell. I also completed 3 weeks of CodePath iOS bootcamp making mock Twitter and Instagram apps.
