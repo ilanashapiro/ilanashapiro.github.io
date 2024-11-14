@@ -31,6 +31,17 @@ Kaitlin Pet, **Ilana Shapiro**, and Christopher Raphael. In _Proceedings of the 
 
 **Ilana Shapiro** and Mark Huber. In _Journal of Humanistic Mathematics, Volume 11 Issue 2 (July 2021)_, pp. 167-195, 2021.
 
+# Academic Theses
+
+<h3><a href="https://cs.pomona.edu/classes/cs190/thesis_examples/Shapiro.22.pdf" target="_blank">MusAssist: A Domain Specific Language for Music Notation</a></h3>
+
+**Ilana Shapiro**. 2022. Bachelor's Thesis (Computer Science). Pomona College.
+
+
+<h3><a href="https://scholarship.claremont.edu/pomona_theses/265/" target="_blank">Mieczysław Weinberg: Music Transcending Tragedy</a></h3>
+
+**Ilana Shapiro**. 2022. Bachelor's Thesis (Music). Pomona College.
+
 
 # Reports and Manuscripts
 
@@ -42,16 +53,6 @@ Cole Kurashige,* Savitha Ravi,* and **Ilana Shapiro**.**\*** Unpublished manuscr
 <h3><a href="/files/procon.pdf" target="_blank">ProCon: Continuous Enumeration for Just-In-Time Bottom-Up Synthesis</a></h3>
 
 Ani Canumalla,* **Ilana Shapiro**,**\*** and Kyle Thompson.* Unpublished manuscript, 2024.
-
-
-<h3><a href="https://cs.pomona.edu/classes/cs190/thesis_examples/Shapiro.22.pdf" target="_blank">MusAssist: A Domain Specific Language for Music Notation</a></h3>
-
-**Ilana Shapiro**. 2022. Bachelor's Thesis (Computer Science). Pomona College.
-
-
-<h3><a href="https://scholarship.claremont.edu/pomona_theses/265/" target="_blank">Mieczysław Weinberg: Music Transcending Tragedy</a></h3>
-
-**Ilana Shapiro**. 2022. Bachelor's Thesis (Music). Pomona College.
 
 
 <h3><a href="/files/dna_music.pdf" target="_blank">Converting DNA to Music: Sonifying Structure, Splicing, and Translation</a></h3>
