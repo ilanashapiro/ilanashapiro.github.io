@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ilana Shapiro"
+# title: "About"
 author_profile: true
 redirect_from: 
   - /about/

@@ -1,6 +1,6 @@
 ---
 permalink: /music/
-title: "Music"
+title: ""
 author_profile: true
 ---
 
