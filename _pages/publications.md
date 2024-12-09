@@ -45,6 +45,10 @@ Kaitlin Pet, **Ilana Shapiro**, and Christopher Raphael. In _Proceedings of the 
 
 # Reports and Manuscripts
 
+<h3><a href="/files/tfd.pdf" target="_blank">The Impact of GitHub Copilot on Test-First Development</a></h3>
+
+**Ilana Shapiro**, Michael Peng, and Andrew Lara. Unpublished manuscript, 2024.
+
 <h3><a href="/files/pgen-rs.pdf" target="_blank">pgen-rs: LLM-Aided Efficient and User-Friendly Genomic Data Wrangling</a></h3>
 
 Cole Kurashige,* Savitha Ravi,* and **Ilana Shapiro**.**\*** Unpublished manuscript, 2024.
