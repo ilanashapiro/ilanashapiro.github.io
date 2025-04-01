@@ -45,6 +45,10 @@ Kaitlin Pet, **Ilana Shapiro**, and Christopher Raphael. In _Proceedings of the 
 
 # Reports and Manuscripts
 
+<h3><a href="/files/gbs_paper.pdf" target="_blank">Grid Beam Search for Constrained GPT-2 Decoding</a></h3>
+
+**Ilana Shapiro**, Shubham Saha, Diya Lakhani, Shree Venkatesh, Runqiu Xu. Unpublished manuscript, 2025.
+
 <h3><a href="/files/tfd.pdf" target="_blank">The Impact of GitHub Copilot on Test-First Development</a></h3>
 
 **Ilana Shapiro**, Michael Peng, and Andrew Lara. Unpublished manuscript, 2024.
