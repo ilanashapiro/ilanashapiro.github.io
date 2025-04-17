@@ -11,7 +11,7 @@ My publications can also be found on [Google Scholar](https://scholar.google.com
 
 # Preprints
 
-<h3><a href="/files/STG_paper.pdf" target="_blank">Deriving Representative Structure Over Music Corpora</a></h3>
+<h3><a href="https://arxiv.org/abs/2502.15849" target="_blank">Deriving Representative Structure Over Music Corpora</a></h3>
 
 **Ilana Shapiro**, Ruanqianqian (Lisa) Huang, Zachary Novack, Cheng-i Wang, Hao-Wen Dong, Taylor Berg-Kirkpatrick, Shlomo Dubnov, and Sorin Lerner. Under review (title modified for anonymous review). 2024.
 
