@@ -5,6 +5,6 @@ excerpt: "I introduced a unified, hierarchical meta-representation of sequence d
 collection: projects
 paper: https://arxiv.org/abs/2502.15849
 code: https://github.com/ilanashapiro/constraints_project
-slides: https://docs.google.com/presentation/d/1EChlPnAeXyts95mXJQ3AT5wwIl5q3JhK9o5JblvDG2U/edit?usp=sharing
+slides: https://docs.google.com/presentation/d/16hWNSMnztE_oKnXoRR_6XZm5xT8-Ewi_4FO_J33ekZE/edit?usp=sharing
 image: stg.png
 ---
