@@ -9,13 +9,12 @@ My publications can also be found on [Google Scholar](https://scholar.google.com
 
 <span style="color:grey">_\* equal contribution_</span>
 
-# Preprints
-
-<h3><a href="https://arxiv.org/abs/2502.15849" target="_blank">Deriving Representative Structure Over Music Corpora</a></h3>
-
-**Ilana Shapiro**, Ruanqianqian (Lisa) Huang, Zachary Novack, Cheng-i Wang, Hao-Wen Dong, Taylor Berg-Kirkpatrick, Shlomo Dubnov, and Sorin Lerner. Under review (title modified for anonymous review). 2024.
-
 # Conference and Journal Papers
+
+<h3><a href="https://arxiv.org/abs/2502.15849" target="_blank">Synthesizing Composite Hierarchical Structure from Symbolic Music Corpora</a></h3>
+
+**Ilana Shapiro**, Ruanqianqian (Lisa) Huang, Zachary Novack, Cheng-i Wang, Hao-Wen Dong, Taylor Berg-Kirkpatrick, Shlomo Dubnov, and Sorin Lerner. To appear in _Proceedings of the 34th International Joint Conference on Artifical Intelligence (IJCAI '25)_, Montreal, Canada, 2025.
+
 
 <h3><a href="https://www.tenor-conference.org/proceedings/2023/11-TENOR_BOSTON_2023_paper_9804Shapiro.pdf" target="_blank">MusAssist: A Domain Specific Language for Music Notation</a></h3>
 
