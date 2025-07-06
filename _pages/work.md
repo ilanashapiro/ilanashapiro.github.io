@@ -9,6 +9,10 @@ author_profile: true
 
 I am working to integrate the complementary strengths of PL, HCI, and AI to develop human-interpretable structural constraints on sequence models for the controllable, co-creative generation of globally structured sequence data. My most recent work investigated stochastic and formal logic techniques to frame and solve the dually NP-hard combinatorial optimization problem of music structure summarization.  -->
 
+## Research Intern, Microsoft Research, RiSE Group (2025.06 - 2024.9)
+
+[Research in Software Engineering (RiSE)](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) group at Microsoft Research, supervised by [Nikolaj Bjorner](https://www.microsoft.com/en-us/research/people/nbjorner/). Researching formal document processing at the intersection of formal methods, reinforcement learning, and LLMs.
+
 ## Freelance Software Engineer, Stainless (2023.02 - 2024.10)
 
 [Stainless](https://www.stainlessapi.com/) is a startup building the platform for high-quality, easy-to-use APIs. To support Stainless, I make open source contributions to codebases including [Stoplight Prism](https://github.com/stoplightio/prism), node-tree-sitter, Microsoft Pyright, NPM Trends, and json-schema-benchmark. My primary contributions are to Prism in mocking and validating APIs using TypeScript, with significant use of functional TypeScript via the [fp-ts library](https://github.com/gcanti/fp-ts).
