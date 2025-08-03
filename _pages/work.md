@@ -9,7 +9,7 @@ author_profile: true
 
 I am working to integrate the complementary strengths of PL, HCI, and AI to develop human-interpretable structural constraints on sequence models for the controllable, co-creative generation of globally structured sequence data. My most recent work investigated stochastic and formal logic techniques to frame and solve the dually NP-hard combinatorial optimization problem of music structure summarization.  -->
 
-## Research Intern, Microsoft Research, RiSE Group (2025.06 - 2024.9)
+## Research Intern, Microsoft Research, RiSE Group (2025.06 - 2025.09)
 
 [Research in Software Engineering (RiSE)](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) group at Microsoft Research, supervised by [Nikolaj Bjorner](https://www.microsoft.com/en-us/research/people/nbjorner/). Researching formal document processing at the intersection of formal methods, reinforcement learning, and LLMs.
 
