@@ -11,7 +11,7 @@ I am working to integrate the complementary strengths of PL, HCI, and AI to deve
 
 ## Research Intern, Microsoft Research, RiSE Group (2025.06 - 2025.09)
 
-[Research in Software Engineering (RiSE)](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) group at Microsoft Research, supervised by [Nikolaj Bjorner](https://www.microsoft.com/en-us/research/people/nbjorner/). Researching formal document processing at the intersection of formal methods, reinforcement learning, and LLMs.
+[Research in Software Engineering (RiSE)](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) group at Microsoft Research, supervised by [Nikolaj Bjorner](https://www.microsoft.com/en-us/research/people/nbjorner/). I am investigating algorithms to improve parallel solving in the SMT solver [Z3](https://github.com/Z3Prover/z3), and am also working on natural language reasoning for program verification at the intersection of reinforcement learning and LLMs.
 
 ## Freelance Software Engineer, Stainless (2023.02 - 2024.10)
 
