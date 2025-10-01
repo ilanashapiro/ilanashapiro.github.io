@@ -4,7 +4,8 @@ collection: teaching
 type: "Teaching Assistant"
 # permalink: /teaching/cse130_ucsd_sp25
 venue: "Dept. of Computer Science and Engineering, UC San Diego"
-date: 2025-03-26
+year: 2025
+quarter: Spring
 location: "La Jolla, CA"
 ---
 

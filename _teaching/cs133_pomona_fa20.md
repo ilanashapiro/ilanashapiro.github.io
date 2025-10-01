@@ -4,7 +4,8 @@ collection: teaching
 type: "Teaching Assistant"
 # permalink: /teaching/cs133_pomona_fa20
 venue: "Dept. of Computer Science, Pomona College"
-date: 2020-09-01
+year: 2020
+quarter: Spring
 location: "Claremont, CA"
 ---
 
