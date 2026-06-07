@@ -11,6 +11,11 @@ My publications can also be found on [Google Scholar](https://scholar.google.com
 
 # Conference and Journal Papers
 
+<h3><a href="/files/parallel_z3.pdf" target="_blank">Parallelizing SMT Solvers via Dynamic Partitioning, Core-Guided Pruning, and Backbone Detection</a></h3>
+
+**Ilana Shapiro**, Sorin Lerner, Nikolaj Bjørner. Under review, 2026.
+
+
 <h3><a href="https://arxiv.org/abs/2502.15849" target="_blank">Synthesizing Composite Hierarchical Structure from Symbolic Music Corpora</a></h3>
 
 **Ilana Shapiro**, Ruanqianqian (Lisa) Huang, Zachary Novack, Cheng-i Wang, Hao-Wen Dong, Taylor Berg-Kirkpatrick, Shlomo Dubnov, and Sorin Lerner. To appear in _Proceedings of the 34th International Joint Conference on Artifical Intelligence (IJCAI '25)_, Montreal, Canada, 2025.
