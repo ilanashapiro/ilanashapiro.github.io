@@ -13,12 +13,12 @@ My publications can also be found on [Google Scholar](https://scholar.google.com
 
 <h3><a href="https://arxiv.org/abs/2606.08852" target="_blank">Parallelizing SMT Solvers via Dynamic Partitioning, Core-Guided Pruning, and Backbone Detection</a></h3>
 
-**Ilana Shapiro**, Sorin Lerner, Nikolaj Bjørner. Under review, 2026.
+**Ilana Shapiro**, Sorin Lerner, and Nikolaj Bjørner. To appear in _Proceedings of the 26th Formal Methods in Computer-Aided Design Conference (FMCAD '26)_, Graz, Austria, 2026.
 
 
 <h3><a href="https://arxiv.org/abs/2502.15849" target="_blank">Synthesizing Composite Hierarchical Structure from Symbolic Music Corpora</a></h3>
 
-**Ilana Shapiro**, Ruanqianqian (Lisa) Huang, Zachary Novack, Cheng-i Wang, Hao-Wen Dong, Taylor Berg-Kirkpatrick, Shlomo Dubnov, and Sorin Lerner. To appear in _Proceedings of the 34th International Joint Conference on Artifical Intelligence (IJCAI '25)_, Montreal, Canada, 2025.
+**Ilana Shapiro**, Ruanqianqian (Lisa) Huang, Zachary Novack, Cheng-i Wang, Hao-Wen Dong, Taylor Berg-Kirkpatrick, Shlomo Dubnov, and Sorin Lerner. In _Proceedings of the 34th International Joint Conference on Artifical Intelligence (IJCAI '25)_, Montreal, Canada, 2025.
 
 
 <h3><a href="https://www.tenor-conference.org/proceedings/2023/11-TENOR_BOSTON_2023_paper_9804Shapiro.pdf" target="_blank">MusAssist: A Domain Specific Language for Music Notation</a></h3>
