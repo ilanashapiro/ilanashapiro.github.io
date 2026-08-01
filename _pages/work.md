@@ -9,6 +9,10 @@ author_profile: true
 
 I am working to integrate the complementary strengths of PL, HCI, and AI to develop human-interpretable structural constraints on sequence models for the controllable, co-creative generation of globally structured sequence data. My most recent work investigated stochastic and formal logic techniques to frame and solve the dually NP-hard combinatorial optimization problem of music structure summarization.  -->
 
+## Applied Scientist Intern, Amazon Web Services, Automated Reasoning Group (2026.06 - 2026.09)
+
+[Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) group at Amazon Science, supervised by [Robert Jones](https://www.amazon.science/author/robert-jones), [Bruno Dutertre](https://brunodutertre.github.io/), and [Jason Hu](https://hustmphrrr.github.io/) on the Amazon Trusted Solver Team. I am working on distributed SMT solving.
+
 ## Research Intern, Microsoft Research, RiSE Group (2025.06 - 2025.09)
 
 [Research in Software Engineering (RiSE)](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) group at Microsoft Research, supervised by [Nikolaj Bjorner](https://www.microsoft.com/en-us/research/people/nbjorner/). I worked on a novel parallelization algorithm (online cubing from CDCL conflict-variable heuristics) for the Z3 SMT solver. See [my fork](https://github.com/ilanashapiro/z3/blob/parallel-solving/src/smt/smt_parallel.cpp) for the experimental versions at the end of my internship, or the [main repo](https://github.com/Z3Prover/z3/blob/master/src/smt/smt_parallel.cpp) for the merged code. I also contributed to the training pipeline for a 32B LLM specialized in program verification: I prepared and augmented Lean datasets for SFT and RL training, built a custom Dockerized [Lean verification server](https://github.com/ilanashapiro/lean-server), and evaluated model checkpoints.
