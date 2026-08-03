@@ -3,10 +3,23 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+hide_title: true
 ---
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
+<h1>Selected Projects</h1>
+
+{% assign selected_projects = site.projects | where: "selected", true | reverse %}
+{% for post in selected_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<hr style="margin: 2.5em 0;">
+
+<h1>Additional Projects</h1>
+
+{% assign additional_projects = site.projects | where_exp: "post", "post.selected != true" | reverse %}
+{% for post in additional_projects %}
   {% include archive-single.html %}
 {% endfor %}
