@@ -3,8 +3,8 @@
   text: Our [paper](https://arxiv.org/abs/2606.08852) on SMT parallelization was accepted to FMCAD 2026 in Graz, Austria
 
 
-- date: June 2026
-  datetime: 2026-06
+- date: July 2026
+  datetime: 2026-07
   text: Our new parallel Z3 framework was [released](https://github.com/Z3Prover/z3/blob/z3-5.0.0/RELEASE_NOTES.md) in [z3-5.0.0](https://github.com/Z3Prover/z3/releases/tag/z3-5.0.0)! We also had the [largest UNSAT performance contribution](https://smt-comp.github.io/2026/results/largest-contribution-parallel/) in the [2026 SMT-COMP Parallel Track](https://smt-comp.github.io/2026/parallel_track/) 
 
 - date: May 2026
