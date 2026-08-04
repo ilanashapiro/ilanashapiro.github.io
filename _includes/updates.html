@@ -1,0 +1,8 @@
+<div class="updates" aria-label="Recent updates">
+  {% for update in site.data.updates %}
+    <div class="updates__item">
+      <time class="updates__date" datetime="{{ update.datetime }}">{{ update.date }}</time>
+      <p>{{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+    </div>
+  {% endfor %}
+</div>

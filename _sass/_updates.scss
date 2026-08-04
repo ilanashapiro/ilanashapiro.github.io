@@ -1,0 +1,57 @@
+/* ==========================================================================
+   UPDATES
+   ========================================================================== */
+
+.page__content {
+  .updates__divider {
+    margin: 1.25em 0 1em;
+  }
+
+  .updates__heading {
+    border-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+  }
+
+  .updates {
+    height: 16rem;
+    margin: 0 0 2em;
+    padding: 0.25em 1em;
+    overflow-y: auto;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background-color: mix(#fff, $light-gray, 85%);
+  }
+
+  .updates__item {
+    display: grid;
+    grid-template-columns: 4em minmax(0, 1fr);
+    column-gap: 0.4em;
+    padding: 0.85em 0;
+    border-bottom: 1px solid $border-color;
+
+    &:last-child {
+      border-bottom: 0;
+    }
+
+    p {
+      font-size: $type-size-6;
+      margin-bottom: 0;
+    }
+  }
+
+  .updates__date {
+    display: block;
+    color: $gray;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    font-weight: bold;
+  }
+
+  @include breakpoint(max-width $small) {
+    .updates__item {
+      grid-template-columns: 1fr;
+      row-gap: 0.25em;
+    }
+  }
+}
