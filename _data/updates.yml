@@ -1,11 +1,15 @@
 - date: July 2026
   datetime: 2026-07
-  text: Our [paper](https://arxiv.org/abs/2606.08852) on SMT parallelization was accepted to FMCAD 2026 in Graz, Austria
+  text: Our [paper](https://arxiv.org/abs/2606.08852) on SMT parallelization was accepted to [FMCAD 2026](https://fmcad.org/FMCAD26/) in Graz, Austria
 
 
 - date: July 2026
   datetime: 2026-07
   text: Our new parallel Z3 framework was [released](https://github.com/Z3Prover/z3/blob/z3-5.0.0/RELEASE_NOTES.md) in [z3-5.0.0](https://github.com/Z3Prover/z3/releases/tag/z3-5.0.0)! We also had the [largest UNSAT performance contribution](https://smt-comp.github.io/2026/results/largest-contribution-parallel/) in the [2026 SMT-COMP Parallel Track](https://smt-comp.github.io/2026/parallel_track/) 
+
+- date: June 2026
+  datetime: 2026-06
+  text: I joined the [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) at [Amazon Science](https://www.amazon.science/) as an Applied Scientist Intern in the Amazon Trusted Solver team
 
 - date: May 2026
   datetime: 2026-05
@@ -13,7 +17,7 @@
 
 - date: Aug 2025
   datetime: 2025-08
-  text: I [presented](https://www.youtube.com/watch?v=7e-srxx-zrU) our [paper](https://arxiv.org/abs/2502.15849) at IJCAI 2025 in Montreal, Canada
+  text: I [presented](https://www.youtube.com/watch?v=7e-srxx-zrU) our [paper](https://arxiv.org/abs/2502.15849) at [IJCAI 2025](https://2025.ijcai.org/) in Montreal, Canada
 
 - date: June 2025
   datetime: 2025-06
@@ -21,7 +25,7 @@
 
 - date: April 2025
   datetime: 2025-04
-  text: Our [paper](https://arxiv.org/abs/2502.15849) on music structure summarization was accepted to IJCAI 2025 in Montreal, Canada
+  text: Our [paper](https://arxiv.org/abs/2502.15849) on music structure summarization was accepted to [IJCAI 2025](https://2025.ijcai.org/) in Montreal, Canada
 
 - date: Sep 2023
   datetime: 2023-09

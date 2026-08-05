@@ -19,7 +19,7 @@ I am working to integrate the complementary strengths of PL, HCI, and AI to deve
 
 ## Freelance Software Engineer, Stainless (2023.02 - 2024.10)
 
-[Stainless](https://www.stainlessapi.com/) is a startup building the platform for high-quality, easy-to-use APIs. To support Stainless, I made open source contributions to codebases including [Stoplight Prism](https://github.com/stoplightio/prism), node-tree-sitter, Microsoft Pyright, NPM Trends, and json-schema-benchmark. My primary contributions were to Prism in mocking and validating APIs using TypeScript, with significant use of functional TypeScript via the [fp-ts library](https://github.com/gcanti/fp-ts).
+[Stainless](https://www.stainless.com/) is a startup building the platform for high-quality, easy-to-use APIs. Stainless was [acquired by Anthropic](https://www.stainless.com/blog/stainless-is-joining-anthropic/) in May 2026, and [previously generated SDKs](https://thenewstack.io/anthropic-stainless-sdk-acquisition/) for major companies including OpenAI, and Google, and Cloudflare. To support Stainless, I made open source contributions to codebases including [Stoplight Prism](https://github.com/stoplightio/prism), node-tree-sitter, Microsoft Pyright, NPM Trends, and json-schema-benchmark. My primary contributions were to Prism in mocking and validating APIs using TypeScript, with significant use of functional TypeScript via the [fp-ts library](https://github.com/gcanti/fp-ts).
 
 ## Software Engineer, Meta (2022.10 - 2022.11)
 
