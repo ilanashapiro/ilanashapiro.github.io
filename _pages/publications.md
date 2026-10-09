@@ -11,7 +11,7 @@ My publications can also be found on [Google Scholar](https://scholar.google.com
 
 # Conference and Journal Papers
 
-<h3><a href="https://arxiv.org/abs/2606.08852" target="_blank">Parallelizing SMT Solvers via Dynamic Partitioning, Core-Guided Pruning, and Backbone Detection</a></h3>
+<h3><a href="https://repositum.tuwien.at/bitstream/20.500.12708/230484/1/Shapiro-2026-Parallel%20SMT%20Solving%20via%20Dynamic%20Partitioning%2c%20Core-Guided%20P...-vor.pdf" target="_blank">Parallelizing SMT Solvers via Dynamic Partitioning, Core-Guided Pruning, and Backbone Detection</a></h3>
 
 **Ilana Shapiro**, Sorin Lerner, and Nikolaj Bjørner. To appear in _Proceedings of the 26th Formal Methods in Computer-Aided Design Conference (FMCAD '26)_, Graz, Austria, 2026.
 

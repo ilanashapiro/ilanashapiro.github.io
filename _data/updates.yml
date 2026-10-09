@@ -1,7 +1,10 @@
+- date: Sep 2026
+  datetime: 2026-09
+  text: I presented our [paper](https://repositum.tuwien.at/bitstream/20.500.12708/230484/1/Shapiro-2026-Parallel%20SMT%20Solving%20via%20Dynamic%20Partitioning%2c%20Core-Guided%20P...-vor.pdf) at [FMCAD 2026](https://fmcad.org/FMCAD26/) in Graz, Austria
+
 - date: July 2026
   datetime: 2026-07
-  text: Our [paper](https://arxiv.org/abs/2606.08852) on SMT parallelization was accepted to [FMCAD 2026](https://fmcad.org/FMCAD26/) in Graz, Austria
-
+  text: Our [paper](https://repositum.tuwien.at/bitstream/20.500.12708/230484/1/Shapiro-2026-Parallel%20SMT%20Solving%20via%20Dynamic%20Partitioning%2c%20Core-Guided%20P...-vor.pdf) on SMT parallelization was accepted to [FMCAD 2026](https://fmcad.org/FMCAD26/) in Graz, Austria
 
 - date: July 2026
   datetime: 2026-07
